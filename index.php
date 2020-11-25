@@ -8,5 +8,9 @@
 <body>
     <h1>hello fahri</h1>
     <p>Muhamad Fachri</p>
+    <ul>
+    <li>satu</li>
+    <li>dua</li>
+    </ul>
 </body>
 </html>
